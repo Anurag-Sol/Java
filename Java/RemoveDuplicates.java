@@ -10,6 +10,8 @@ public class RemoveDuplicates {
         }
         return count;
     }
-    
+    public static void main(String[] args) {
+        
+    }
 }
 
